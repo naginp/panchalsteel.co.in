@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://panchalsteel.co.in/sitemap.xml
